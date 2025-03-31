@@ -43,8 +43,8 @@ jobs:
         run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-          GIT_AUTHOR_NAME: "BetaHuhn Bot"
-          GIT_AUTHOR_EMAIL: "bot@mxis.ch"
-          GIT_COMMITTER_NAME: "BetaHuhn Bot"
-          GIT_COMMITTER_EMAIL: "bot@mxis.ch"
+          GIT_AUTHOR_NAME: "Helmut Hoffer von Ankershoffen"
+          GIT_AUTHOR_EMAIL: "helmuthva@googlemail.com"
+          GIT_COMMITTER_NAME: "Helmut Bot"
+          GIT_COMMITTER_EMAIL: "helmuthva+bot@googlemail."
           COMMIT_ASSETS: dist
