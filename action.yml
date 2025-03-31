@@ -83,6 +83,10 @@ inputs:
     description: |
       Used to skip the build cache.
     required: false
+  ARCHIVE:
+    description: |
+      Send .tgz to avoid hitting Vercel API rate limit.
+    required: false
 
 outputs:
   PREVIEW_URL:
