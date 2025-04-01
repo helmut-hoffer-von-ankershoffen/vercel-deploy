@@ -6,9 +6,7 @@ on:
 jobs:
   releaseScheduler:
     permissions:
-      packages: write
       contents: read
-      attestations: write
       id-token: write
     runs-on: ubuntu-latest
     steps:

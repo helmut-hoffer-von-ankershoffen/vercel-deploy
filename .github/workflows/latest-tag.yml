@@ -6,9 +6,7 @@ jobs:
   latest:
     name: Latest
     permissions:
-      packages: write
       contents: read
-      attestations: write
       id-token: write
     runs-on: windows-latest
     steps:
