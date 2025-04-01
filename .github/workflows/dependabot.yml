@@ -7,7 +7,8 @@ jobs:
   auto-merge:
     name: Auto Merge
     permissions:
-      contents: read
+      contents: write
+      issues: write
       id-token: write
     runs-on: ubuntu-latest
     steps:

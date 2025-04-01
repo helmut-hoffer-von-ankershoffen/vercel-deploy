@@ -6,7 +6,8 @@ jobs:
   stale:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
+      issues: write
       id-token: write
     steps:
     - uses: actions/stale@v9

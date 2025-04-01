@@ -6,7 +6,8 @@ jobs:
   latest:
     name: Latest
     permissions:
-      contents: read
+      contents: write
+      issues: write
       id-token: write
     runs-on: windows-latest
     steps:
