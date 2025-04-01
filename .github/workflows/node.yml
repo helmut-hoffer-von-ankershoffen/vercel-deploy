@@ -9,6 +9,11 @@ on:
 jobs:
   lint:
     name: Lint
+    permissions:
+      packages: write
+      contents: read
+      attestations: write
+      id-token: write
     runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
@@ -25,6 +30,11 @@ jobs:
         run: npm run lint
   build:
     name: Build
+    permissions:
+      packages: write
+      contents: read
+      attestations: write
+      id-token: write
     runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
