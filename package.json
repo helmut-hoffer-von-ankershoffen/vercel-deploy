@@ -14,7 +14,7 @@
     "url": "git+https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy.git"
   },
   "keywords": [],
-  "author": "Maximilian Schiller <schiller@mxis.ch>",
+  "author": "Maximilian Schiller <schiller@mxis.ch>, Helmut Hoffer von Ankershoffen <helmuthva@googlemail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/issues"

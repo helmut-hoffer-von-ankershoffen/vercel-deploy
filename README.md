@@ -2,10 +2,9 @@
 
 # Deploy to Vercel Action
 
-[![Node CI](https://github.com/BetaHuhn/deploy-to-vercel-action/workflows/Node%20CI/badge.svg)](https://github.com/BetaHuhn/deploy-to-vercel-action/actions?query=workflow%3A%22Node+CI%22)
-[![Release CI](https://github.com/BetaHuhn/deploy-to-vercel-action/workflows/Release%20CI/badge.svg)](https://github.com/BetaHuhn/deploy-to-vercel-action/actions?query=workflow%3A%22Release+CI%22)
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BetaHuhn/deploy-to-vercel-action/blob/master/LICENSE)
-![David](https://img.shields.io/david/betahuhn/deploy-to-vercel-action)
+[![Node CI](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/workflows/Node%20CI/badge.svg)](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/actions?query=workflow%3A%22Node+CI%22)
+[![Release CI](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/workflows/Release%20CI/badge.svg)](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/actions?query=workflow%3A%22Release+CI%22)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/blob/master/LICENSE)
 
 Deploy your project to Vercel using GitHub Actions. Supports PR previews and
 GitHub deployments.
@@ -620,8 +619,8 @@ The actual source code of this Action is in the `src` folder.
 
 ## ❔ About
 
-This project was developed by ([@betahuhn](https://github.com/BetaHuhn)) in my
-free time. If you want to support me:
+This project was developed by ([@betahuhn](https://github.com/BetaHuhn)) in
+their free time. If you want to support them:
 
 [![Donate via PayPal](https://img.shields.io/badge/paypal-donate-009cde.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=394RTSBEEEFEE)
 
@@ -630,9 +629,10 @@ free time. If you want to support me:
 **[vercel-deploy](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy)
 is in no way affiliated with Vercel.**
 
+The project was forked by me,
+[@helmut-hoffer-von-ankershoffen](https://github.com/helmut-hoffer-von-ankershoffen),
+to add minor features.
+
 ## 📄 License
 
-Copyright 2021 Maximilian Schiller
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
-for details.
+See the [LICENSE](LICENSE).
