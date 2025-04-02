@@ -1,3 +1,25 @@
+## [v1.11.2] - 2025-04-02
+
+[Release notes](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/releases/tag/v1.11.2) · [Compare](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/compare/v1.11.1...v1.11.2) · [Tag](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/tree/v1.11.2) · Archive ([zip](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/archive/v1.11.2.zip) · [tar.gz](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/archive/v1.11.2.tar.gz))
+
+### Updates
+
+- [`0f487b8`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/0f487b8)  Refactored
+
+### Dependency updates
+
+- [`9cc14a5`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/9cc14a5)  Bump actions/setup-node from 2 to 4
+- [`d041ba1`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/d041ba1)  Bump actions/checkout from 2 to 4
+- [`e19b3a8`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/e19b3a8)  Bump actions/stale from 3 to 9
+- [`c2e1fab`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/c2e1fab)  Bump braces from 3.0.2 to 3.0.3
+- [`6455b2f`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/6455b2f)  Bump minimist from 1.2.5 to 1.2.8
+- [`ff3411b`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/ff3411b)  Bump tough-cookie and npm
+- [`9ae99cf`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/9ae99cf)  Bump micromatch from 4.0.4 to 4.0.8
+- [`a8509fa`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/a8509fa)  Bump decode-uri-component from 0.2.0 to 0.2.2
+- [`78d17cb`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/78d17cb)  Bump parse-path and semantic-release-gitmoji
+- [`72e6278`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/72e6278)  Bump parse-url and semantic-release-gitmoji
+- [`80acdad`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/80acdad)  Bump ansi-regex
+
 ## [v1.10.0] - 2024-05-05
 
 [Release notes](https://github.com/betahuhn/deploy-to-vercel-action/releases/tag/v1.10.0) · [Compare](https://github.com/betahuhn/deploy-to-vercel-action/compare/v1.9.12...v1.10.0) · [Tag](https://github.com/betahuhn/deploy-to-vercel-action/tree/v1.10.0) · Archive ([zip](https://github.com/betahuhn/deploy-to-vercel-action/archive/v1.10.0.zip) · [tar.gz](https://github.com/betahuhn/deploy-to-vercel-action/archive/v1.10.0.tar.gz))
