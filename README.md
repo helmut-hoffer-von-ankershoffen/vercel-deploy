@@ -629,9 +629,8 @@ their free time. If you want to support them:
 **[vercel-deploy](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy)
 is in no way affiliated with Vercel.**
 
-The project was forked by me,
-[@helmut-hoffer-von-ankershoffen](https://github.com/helmut-hoffer-von-ankershoffen),
-to add minor features.
+To add minor features the project was forked by
+[@helmut-hoffer-von-ankershoffen](https://github.com/helmut-hoffer-von-ankershoffen).
 
 ## 📄 License
 
