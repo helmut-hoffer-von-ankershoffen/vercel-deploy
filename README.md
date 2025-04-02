@@ -634,4 +634,4 @@ To add minor features the project was forked by
 
 ## 📄 License
 
-See the [LICENSE](LICENSE).
+See [LICENSE](LICENSE).
