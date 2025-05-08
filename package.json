@@ -23,7 +23,7 @@
   "dependencies": {
     "@actions/core": "^1.11.0",
     "@actions/exec": "^1.1.1",
-    "@actions/github": "^6.0.0",
+    "@actions/github": "^6.0.1",
     "action-input-parser": "^1.2.38",
     "dotenv": "^16.4.7",
     "got": "^14.4.7",
