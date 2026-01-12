@@ -1,3 +1,12 @@
+## [v1.11.3] - 2026-01-12
+
+[Release notes](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/releases/tag/v1.11.3) · [Compare](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/compare/v1.11.2...v1.11.3) · [Tag](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/tree/v1.11.3) · Archive ([zip](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/archive/v1.11.3.zip) · [tar.gz](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/archive/v1.11.3.tar.gz))
+
+### Dependency updates
+
+- [`c0d432c`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/c0d432c)  Bump got from 14.4.7 to 14.6.6
+- [`a250438`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/a250438)  Bump eslint from 9.23.0 to 9.39.2
+
 ## [v1.11.2] - 2025-04-02
 
 [Release notes](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/releases/tag/v1.11.2) · [Compare](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/compare/v1.11.1...v1.11.2) · [Tag](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/tree/v1.11.2) · Archive ([zip](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/archive/v1.11.2.zip) · [tar.gz](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/archive/v1.11.2.tar.gz))
