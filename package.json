@@ -32,7 +32,7 @@
   "devDependencies": {
     "@betahuhn/config": "^1.2.0",
     "@vercel/ncc": "^0.38.3",
-    "eslint": "^9.39.2"
+    "eslint": "^10.4.1"
   },
   "engines": {
     "node": "20"
