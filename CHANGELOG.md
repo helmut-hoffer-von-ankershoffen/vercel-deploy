@@ -1,3 +1,12 @@
+## [v1.11.4] - 2026-10-19
+
+[Release notes](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/releases/tag/v1.11.4) · [Compare](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/compare/v1.11.3...v1.11.4) · [Tag](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/tree/v1.11.4) · Archive ([zip](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/archive/v1.11.4.zip) · [tar.gz](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/archive/v1.11.4.tar.gz))
+
+### Dependency updates
+
+- [`95e8efa`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/95e8efa)  Bump brace-expansion from 1.1.11 to 1.1.21
+- [`5ee49c7`](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/commit/5ee49c7)  Bump handlebars from 4.7.7 to 4.7.10
+
 ## [v1.11.3] - 2026-01-12
 
 [Release notes](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/releases/tag/v1.11.3) · [Compare](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/compare/v1.11.2...v1.11.3) · [Tag](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/tree/v1.11.3) · Archive ([zip](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/archive/v1.11.3.zip) · [tar.gz](https://github.com/helmut-hoffer-von-ankershoffen/vercel-deploy/archive/v1.11.3.tar.gz))
